@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374789422911",
+    "project_id": "saviour-61f3f",
+    "storage_bucket": "saviour-61f3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374789422911:android:29abef404b2bd3202d9d8a",
+        "android_client_info": {
+          "package_name": "com.example.doc2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWr01kK904c-_YUjnptf2LUqgD6gu82A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
